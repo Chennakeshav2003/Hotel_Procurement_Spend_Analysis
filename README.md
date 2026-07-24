@@ -1,4 +1,4 @@
-# 🏨 Hotel Procurement Spend Analysis | Python • Power BI • Excel
+# 🏨 Hotel Procurement Spend Analysis
 
 > End-to-end procurement analytics project transforming **209K procurement transactions** into actionable business insights using **Python, Excel, and Power BI**.
 
