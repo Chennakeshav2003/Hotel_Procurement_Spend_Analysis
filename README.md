@@ -12,30 +12,6 @@ The project covers the complete analytics lifecycle—from raw data cleaning to 
 
 ---
 
-## 📊 Project Highlights
-
-✔ Analyzed **209,000+ procurement transactions**
-
-✔ Processed procurement data worth **976.49M total spend**
-
-✔ Consolidated data from **4 hotel properties**
-
-✔ Analyzed **1,553 suppliers**
-
-✔ Evaluated **16,000+ products**
-
-✔ Built **3 interactive Power BI dashboard pages**
-
-✔ Performed **ABC Inventory Classification**
-
-✔ Conducted **Pareto Supplier Analysis**
-
-✔ Delivered **brand-level analysis** for Pepsi & Kimberly-Clark
-
-✔ Generated business recommendations for procurement optimization
-
----
-
 ## 🎯 Business Objectives
 
 - Consolidate procurement data from multiple hotels
