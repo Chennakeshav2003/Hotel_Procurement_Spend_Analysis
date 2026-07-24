@@ -27,61 +27,6 @@ The project demonstrates the complete analytics lifecycle—from **data cleaning
 
 ---
 
-# 🎯 Business Objectives
-
-- Consolidate procurement data from multiple hotel properties
-- Standardize inconsistent procurement records
-- Analyze procurement spending across suppliers and categories
-- Identify high-value inventory using **ABC Classification**
-- Evaluate supplier dependency using **Pareto Analysis**
-- Monitor monthly procurement trends
-- Build executive dashboards for decision-makers
-
----
-
-# 🛠 Tech Stack
-
-| Tool | Purpose |
-|------|---------|
-| 🐍 Python | Data Cleaning & Analysis |
-| 🐼 Pandas | Data Transformation |
-| 🔢 NumPy | Numerical Computing |
-| 📊 Matplotlib | Data Visualization |
-| 📑 Microsoft Excel | Data Validation |
-| 📈 Power BI | Interactive Dashboard |
-| 📓 Jupyter Notebook | Data Analysis |
-
----
-
-# 🔄 Project Workflow
-
-```text
-Raw Excel Procurement Files
-            │
-            ▼
- Data Cleaning (Python)
-            │
-            ▼
- Data Transformation
-            │
-            ▼
- Exploratory Data Analysis
-            │
-            ▼
-     ABC Analysis
-            │
-            ▼
-   Pareto Analysis
-            │
-            ▼
- Interactive Power BI Dashboard
-            │
-            ▼
- Business Insights & Recommendations
-```
-
----
-
 # 📈 Dashboard Preview
 
 ## 🏠 Executive Dashboard
@@ -137,6 +82,59 @@ Raw Excel Procurement Files
 
 ---
 
+# 🎯 Business Objectives
+
+- Consolidate procurement data from multiple hotel properties
+- Standardize inconsistent procurement records
+- Analyze procurement spending across suppliers and categories
+- Identify high-value inventory using **ABC Classification**
+- Evaluate supplier dependency using **Pareto Analysis**
+- Monitor monthly procurement trends
+- Build executive dashboards for decision-makers
+
+---
+
+# 🛠 Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| 🐍 Python | Data Cleaning & Analysis |
+| 🐼 Pandas | Data Transformation |
+| 🔢 NumPy | Numerical Computing |
+| 📊 Matplotlib | Data Visualization |
+| 📑 Microsoft Excel | Data Validation |
+| 📈 Power BI | Interactive Dashboard |
+| 📓 Jupyter Notebook | Data Analysis |
+
+---
+
+# 🔄 Project Workflow
+
+```text
+Raw Excel Procurement Files
+            │
+            ▼
+ Data Cleaning (Python)
+            │
+            ▼
+ Data Transformation
+            │
+            ▼
+ Exploratory Data Analysis
+            │
+            ▼
+     ABC Analysis
+            │
+            ▼
+   Pareto Analysis
+            │
+            ▼
+ Interactive Power BI Dashboard
+            │
+            ▼
+ Business Insights & Recommendations
+```
+
 # 📉 Analytical Techniques
 
 ### 📊 Exploratory Data Analysis (EDA)
@@ -154,7 +152,6 @@ Raw Excel Procurement Files
 Applied the **ABC Classification (80/20 Principle)** to categorize products based on procurement value.
 
 ✔ Identified high-value products requiring tighter inventory control
-
 ✔ Prioritized inventory management for maximum business impact
 
 ---
@@ -164,9 +161,7 @@ Applied the **ABC Classification (80/20 Principle)** to categorize products base
 Applied the **Pareto Principle (80/20 Rule)** to identify supplier concentration.
 
 ✔ Identified suppliers contributing to the majority of procurement spending
-
 ✔ Highlighted supplier negotiation opportunities
-
 ✔ Supported supplier risk assessment
 
 ---
@@ -243,15 +238,15 @@ Hotel-Procurement-Spend-Analysis
 
 ---
 
-# 📬 Contact
+### Connect
 
 **Chennakeshav Kanepogu**
 
 💼 Data Analyst | Business Intelligence | Power BI | Python | SQL
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/chennakeshav-kanepogu
+🔗 **LinkedIn:** [https://www.linkedin.com/in/chennakeshav-kanepogu](https://www.linkedin.com/in/chennakeshav-kanepogu-3b9084267/)
 
-💻 **GitHub:** https://github.com/Chennakeshav2003
+💻 **GitHub:** [https://github.com/Chennakeshav2003](https://github.com/Chennakeshav2003)
 
 ---
 
