@@ -82,10 +82,15 @@ Raw Excel Procurement Files
 
 ---
 
-# 📈 Dashboard Features
+# 📈 Dashboard Preview
 
-## 📊 Executive Dashboard
+## 🏠 Executive Dashboard
 
+<p align="center">
+<img src="images/executive_dashboard.png" width="900">
+</p>
+
+### Features
 - Total Procurement Spend
 - Total Transactions
 - Total Suppliers
@@ -99,6 +104,10 @@ Raw Excel Procurement Files
 ---
 
 ## 🥤 Brand Procurement Analysis
+
+<p align="center">
+<img src="images/brand_analysis.png" width="900">
+</p>
 
 ### Pepsi
 
@@ -116,6 +125,11 @@ Raw Excel Procurement Files
 
 ## 💡 Insights Dashboard
 
+<p align="center">
+<img src="images/insights.png" width="900">
+</p>
+
+### Features
 - Major Procurement Observations
 - Procurement Methodology
 - Business Recommendations
@@ -183,33 +197,7 @@ This analysis helps procurement teams to:
 - Monitor procurement KPIs
 - Improve purchasing efficiency
 - Support data-driven decision-making
-
----
-
-# 📷 Dashboard Preview
-
-## 🏠 Executive Dashboard
-
-<p align="center">
-<img src="images/executive_dashboard.png" width="900">
-</p>
-
----
-
-## 🥤 Pepsi & Kimberly-Clark Analysis
-
-<p align="center">
-<img src="images/brand_analysis.png" width="900">
-</p>
-
----
-
-## 💡 Insights & Recommendations
-
-<p align="center">
-<img src="images/insights.png" width="900">
-</p>
-
+  
 ---
 
 # 📂 Repository Structure
