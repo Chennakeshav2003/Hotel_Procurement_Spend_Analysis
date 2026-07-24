@@ -167,10 +167,17 @@ Hotel-Procurement-Spend-Analysis/
 
 ---
 
-# 👨‍💻 Author
+## About This Project
+
+This repository was developed as a **hospitality procurement analytics case study** to demonstrate practical data analytics and business intelligence skills. The analysis showcases how procurement data can be transformed into strategic insights that support supplier management, inventory optimization, and cost reduction.
+
+---
+
+## Contact
 
 **Chennakeshav Kanepogu**
 
-📧 Data Analyst | Business Intelligence | Power BI | Python | SQL
+- LinkedIn: www.linkedin.com/in/chennakeshav-kanepogu
+- GitHub: https://github.com/keshavkhanepal
 
-⭐ If you found this project useful, don't forget to star the repository.
+If you found this project helpful, consider giving it a ⭐.
