@@ -1,146 +1,130 @@
-# Hotel Procurement Spend Analysis using Python & Power BI
+# 🏨 Hotel Procurement Spend Analysis | Python • Power BI • Excel
 
-## Overview
-
-This project presents an end-to-end procurement spend analysis for a hospitality business using **Python**, **Excel**, and **Power BI**. The objective was to transform raw procurement transactions into actionable business insights by analyzing supplier performance, product categories, inventory concentration, and spending trends.
-
-The project demonstrates the complete analytics workflow from data cleaning and transformation to dashboard development and business recommendations. :contentReference[oaicite:0]{index=0}
+> End-to-end procurement analytics project transforming **209K procurement transactions** into actionable business insights using **Python, Excel, and Power BI**.
 
 ---
 
-## Business Objective
+## 📌 Project Overview
 
-The primary objectives of this project were to:
+This project analyzes procurement spending across **4 hotel properties**, helping identify cost-saving opportunities, supplier concentration, inventory priorities, and purchasing trends.
 
-- Consolidate procurement data from multiple hotel properties
-- Clean and standardize inconsistent datasets
-- Analyze procurement spending across hotels and suppliers
-- Identify high-value products using ABC Analysis
-- Evaluate supplier concentration using Pareto Analysis
-- Perform brand-specific analysis for Pepsi and Kimberly-Clark products
-- Build interactive dashboards for business decision-making :contentReference[oaicite:1]{index=1}
+The project covers the complete analytics lifecycle—from raw data cleaning to interactive dashboard development and strategic business recommendations.
 
 ---
 
-## Tech Stack
+## 📊 Project Highlights
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Microsoft Excel
-- Power BI
-- Jupyter Notebook
+✔ Analyzed **209,000+ procurement transactions**
 
----
+✔ Processed procurement data worth **976.49M total spend**
 
-## Project Workflow
+✔ Consolidated data from **4 hotel properties**
 
-```
-Raw Procurement Data
-        │
-        ▼
-Data Cleaning & Validation
-        │
-        ▼
-Data Transformation
-        │
-        ▼
-Exploratory Data Analysis
-        │
-        ▼
-ABC Inventory Classification
-        │
-        ▼
-Pareto Supplier Analysis
-        │
-        ▼
-Power BI Dashboard
-        │
-        ▼
-Business Insights & Recommendations
-```
+✔ Analyzed **1,553 suppliers**
+
+✔ Evaluated **16,000+ products**
+
+✔ Built **3 interactive Power BI dashboard pages**
+
+✔ Performed **ABC Inventory Classification**
+
+✔ Conducted **Pareto Supplier Analysis**
+
+✔ Delivered **brand-level analysis** for Pepsi & Kimberly-Clark
+
+✔ Generated business recommendations for procurement optimization
 
 ---
 
-## Dashboard Features
+## 🎯 Business Objectives
 
-### Executive Overview
+- Consolidate procurement data from multiple hotels
+- Standardize and clean procurement records
+- Identify high-spend suppliers and products
+- Analyze procurement trends over time
+- Classify inventory using ABC Analysis
+- Measure supplier concentration using Pareto Analysis
+- Build an executive dashboard for decision-makers
+
+---
+
+# 🛠 Tech Stack
+
+| Tool | Purpose |
+|-------|----------|
+| Python | Data Cleaning & Analysis |
+| Pandas | Data Transformation |
+| NumPy | Numerical Processing |
+| Matplotlib | Visualization |
+| Excel | Data Validation |
+| Power BI | Interactive Dashboard |
+| Jupyter Notebook | Analysis |
+
+---
+
+# 📈 Dashboard Features
+
+## Executive Dashboard
 
 - Total Procurement Spend
-- Total Transactions
-- Total Suppliers
-- Total Products
-- Spend by Hotel
-- Spend by Supplier
-- Spend by Category
-- Monthly Spend Trend
-- Top Products :contentReference[oaicite:2]{index=2}
-
-### Brand Analysis
-
-Separate dashboards for:
-
-- Pepsi Products
-- Kimberly-Clark Products
-
-Each dashboard includes:
-
-- Spend by Hotel
-- Spend by Supplier
-- Spend by Product :contentReference[oaicite:3]{index=3}
-
-### Business Insights
-
-The dashboard summarizes:
-
-- Highest spending hotel
-- Top supplier by procurement spend
-- Highest spending product category
-- Monthly procurement trends
-- Procurement recommendations
-- Enterprise scalability suggestions :contentReference[oaicite:4]{index=4}
+- Procurement Transactions
+- Supplier Analysis
+- Product Analysis
+- Hotel-wise Spend
+- Category-wise Spend
+- Monthly Spending Trend
+- Top Products
 
 ---
 
-## Key Insights
+## Brand Analytics
 
-- Hotel XYZ recorded the highest procurement expenditure.
-- Procurement spending was highly concentrated among a limited number of suppliers.
-- Butchery was the highest spending category.
-- Procurement spend peaked during December.
-- Pepsi procurement was mainly driven by canned beverages.
-- Kimberly-Clark procurement was dominated by tissue and hygiene products.
-- ABC Analysis showed that a small percentage of products contributed to the majority of procurement spend.
-- Pareto Analysis identified supplier concentration, highlighting opportunities for contract negotiation and supplier optimization. :contentReference[oaicite:5]{index=5}
+### Pepsi Analysis
+
+- Spend by Product
+- Spend by Supplier
+- Spend by Hotel
+
+### Kimberly-Clark Analysis
+
+- Spend by Product
+- Spend by Supplier
+- Spend by Hotel
 
 ---
 
-## Repository Structure
+## Business Insights Dashboard
+
+- Procurement Observations
+- Procurement Methodology
+- Business Recommendations
+- Enterprise Scalability Suggestions
+
+---
+
+# 📊 Key Insights
+
+- 📌 Processed procurement data worth **976.49M**
+- 📌 Hotel XYZ recorded the highest procurement spend
+- 📌 1,553 suppliers participated in procurement activities
+- 📌 Butchery emerged as the highest spending category
+- 📌 Procurement spending peaked during December
+- 📌 Supplier spending showed high concentration, indicating negotiation opportunities
+- 📌 Pepsi procurement was driven primarily by beverage products
+- 📌 Kimberly-Clark procurement was dominated by tissue and hygiene products
+
+---
+
+# 📂 Repository Structure
 
 ```
 Hotel-Procurement-Spend-Analysis/
 │
 ├── data/
-│   ├── cleaned_master_purchase_register.xlsx
-│   ├── cleaned_data_pepsi.xlsx
-│   ├── cleaned_data_kc.xlsx
-│
 ├── notebooks/
-│   └── Hotel_Procurement_Spend_Analysis.ipynb
-│
 ├── dashboard/
-│   └── procurement_analysis.pbix
-│
 ├── reports/
-│   ├── Procurement_Report.pdf
-│   └── Project_Presentation.pptx
-│
 ├── images/
-│   ├── executive_dashboard.png
-│   ├── brand_analysis.png
-│   └── insights.png
-│
 ├── README.md
 ├── requirements.txt
 └── LICENSE
@@ -148,46 +132,46 @@ Hotel-Procurement-Spend-Analysis/
 
 ---
 
-## Skills Demonstrated
+# 💡 Skills Demonstrated
 
 - Data Cleaning
-- Data Transformation
+- Data Wrangling
 - Exploratory Data Analysis (EDA)
-- Data Visualization
 - Business Intelligence
+- Dashboard Design
 - Procurement Analytics
-- ABC Classification
-- Pareto Analysis
-- Dashboard Development
-- Business Storytelling
 - Power BI
 - Python
 - Excel
+- Inventory Analysis
+- Supplier Analytics
+- Business Storytelling
 
 ---
 
-## Future Improvements
+# 🚀 Business Value
 
-- SQL Database Integration
-- Automated ETL Pipeline
-- Scheduled Dashboard Refresh
-- Predictive Procurement Forecasting
-- Supplier Risk Scoring
-- KPI Monitoring Dashboard
+This analysis enables procurement teams to:
 
----
-
-## About This Project
-
-This repository was developed as a **hospitality procurement analytics case study** to demonstrate practical data analytics and business intelligence skills. The analysis showcases how procurement data can be transformed into strategic insights that support supplier management, inventory optimization, and cost reduction.
+- Optimize supplier negotiations
+- Reduce procurement costs
+- Improve inventory management
+- Identify seasonal purchasing patterns
+- Monitor supplier dependency
+- Support data-driven procurement decisions
 
 ---
 
-## Contact
+# 📷 Dashboard Preview
+
+(Add dashboard screenshots here)
+
+---
+
+# 👨‍💻 Author
 
 **Chennakeshav Kanepogu**
 
-- LinkedIn: www.linkedin.com/in/chennakeshav-kanepogu
-- GitHub: https://github.com/keshavkhanepal
+📧 Data Analyst | Business Intelligence | Power BI | Python | SQL
 
-If you found this project helpful, consider giving it a ⭐.
+⭐ If you found this project useful, don't forget to star the repository.
