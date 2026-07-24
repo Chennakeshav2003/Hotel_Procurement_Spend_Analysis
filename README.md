@@ -102,17 +102,19 @@ The project covers the complete analytics lifecycle—from raw data cleaning to 
 
 ---
 
-# 📊 Key Insights
+## 📊 Project Highlights
 
-- 📌 Processed procurement data worth **976.49M**
-- 📌 Hotel XYZ recorded the highest procurement spend
-- 📌 1,553 suppliers participated in procurement activities
-- 📌 Butchery emerged as the highest spending category
-- 📌 Procurement spending peaked during December
-- 📌 Supplier spending showed high concentration, indicating negotiation opportunities
-- 📌 Pepsi procurement was driven primarily by beverage products
-- 📌 Kimberly-Clark procurement was dominated by tissue and hygiene products
-
+- 📈 Analyzed **209K+ procurement transactions** across **4 hotel properties**
+- 💰 Evaluated procurement spending of **976.49M**
+- 🏢 Assessed procurement performance across **1,553 suppliers**
+- 📦 Analyzed **16K+ products** across multiple procurement categories
+- 📊 Developed **3 interactive Power BI dashboards** for executive reporting
+- 📉 Performed **Exploratory Data Analysis (EDA)** to identify procurement trends
+- 📌 Conducted **ABC Analysis** to classify inventory based on procurement value (80/20 Principle)
+- 📈 Performed **Pareto Analysis** to identify high-impact suppliers contributing to the majority of procurement spend
+- 🥤 Built **brand-level procurement analysis** for Pepsi and Kimberly-Clark
+- 💡 Delivered actionable recommendations for supplier optimization and procurement cost reduction
+  
 ---
 
 # 📂 Repository Structure
@@ -132,33 +134,30 @@ Hotel-Procurement-Spend-Analysis/
 
 ---
 
-# 💡 Skills Demonstrated
+## 🛠 Skills Demonstrated
 
-- Data Cleaning
-- Data Wrangling
+- Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
+- Power BI Dashboard Development
+- Procurement Spend Analysis
+- Supplier Performance Analysis
+- Product Category Analysis
+- Time Series Analysis
+- ABC Inventory Classification
+- Pareto Analysis (80/20 Principle)
 - Business Intelligence
-- Dashboard Design
-- Procurement Analytics
-- Power BI
-- Python
-- Excel
-- Inventory Analysis
-- Supplier Analytics
-- Business Storytelling
+- Data Visualization
+- Python (Pandas, NumPy, Matplotlib)
+- Microsoft Excel
 
 ---
 
-# 🚀 Business Value
+## 🎯 Business Impact
 
-This analysis enables procurement teams to:
-
-- Optimize supplier negotiations
-- Reduce procurement costs
-- Improve inventory management
-- Identify seasonal purchasing patterns
-- Monitor supplier dependency
-- Support data-driven procurement decisions
+- Identified high-value inventory using **ABC Analysis**, enabling prioritization of critical products for inventory management.
+- Applied **Pareto Analysis** to reveal supplier concentration and identify strategic negotiation opportunities.
+- Analyzed procurement trends across hotels, suppliers, categories, and brands to support data-driven purchasing decisions.
+- Developed interactive dashboards that enable stakeholders to monitor procurement KPIs and spending patterns efficiently.
 
 ---
 
