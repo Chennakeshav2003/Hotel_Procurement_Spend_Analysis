@@ -123,6 +123,7 @@ The project covers the complete analytics lifecycle—from raw data cleaning to 
 Hotel-Procurement-Spend-Analysis/
 │
 ├── data/
+├── cleaned_data/
 ├── notebooks/
 ├── dashboard/
 ├── reports/
