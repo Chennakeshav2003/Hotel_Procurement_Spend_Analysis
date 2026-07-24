@@ -1,15 +1,5 @@
 # 🏨 Hotel Procurement Spend Analysis using Python & Power BI
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoftexcel)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-
-</p>
-
 > **End-to-End Procurement Analytics Project** transforming **209K+ procurement transactions** into actionable business insights using **Python, Excel, and Power BI**.
 
 ---
@@ -217,7 +207,7 @@ This analysis helps procurement teams to:
 ## 💡 Insights & Recommendations
 
 <p align="center">
-<img src="images/insights_dashboard.png" width="900">
+<img src="images/insights.png" width="900">
 </p>
 
 ---
